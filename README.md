@@ -4,6 +4,13 @@ This project demonstrates the deployment of Doom using Docker, showcasing the se
 
 "Doom" is the legendary first-person shooter video game developed by id Software, first released in 1993. It is widely regarded as one of the most influential titles in video game history, pioneering immersive 3D graphics, networked multiplayer gaming, and modding culture. The "Video of Doom" in this project serves as a tribute to this iconic game, featuring content inspired by its rich history, gameplay mechanics, and cultural impact.
 
+## Key Features
+1. Containerized Environment: The project utilizes Docker to ensure a consistent runtime environment, enabling easy setup and deployment across different systems.
+
+2. Tribute to Doom: The video captures the spirit of the original Doom game, celebrating its influence on gaming and technology.
+
+3. Plug-and-Play Deployment: With Docker's simplified orchestration, the application can be launched with minimal configuration efforts.
+
 ## Stand-alone Deployment
 Environment Variables APP_ARGS - Additional arguments to pass to the application when launched. Stand-alone Deployment. This image was designed to run natively within Kasm Workspaces, but it can also be deployed stand-alone and accessed through a web browser.
 This image can be deployed stand-alone and accessed through a web browser.
