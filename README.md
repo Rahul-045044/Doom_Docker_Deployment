@@ -1,5 +1,5 @@
 # Doom_Docker_Deployment
-Welcome to DOCKER-DOOM, your gateway to experiencing the classic game DOOM right from your browser within a Docker
+Welcome to DOCKER-DOOM, your gateway to experiencing the classic game DOOM right from your browser within a Docker.
 This project demonstrates the deployment of Doom using Docker, showcasing the seamless integration of containerization.
 
 "Doom" is the legendary first-person shooter video game developed by id Software, first released in 1993. It is widely regarded as one of the most influential titles in video game history, pioneering immersive 3D graphics, networked multiplayer gaming, and modding culture. The "Video of Doom" in this project serves as a tribute to this iconic game, featuring content inspired by its rich history, gameplay mechanics, and cultural impact.
